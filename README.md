@@ -1,0 +1,3 @@
+# aoc
+
+My solutions for Advent of Code 2023. In previous years I used jupyter notebooks that were bundled in with a whole bunch of other stuff that I couldn't make public. I'll untangle this soon, but for a few weeks this should only contain repositories related to Advent of Code 2023. I'm focussing this year on not just having the answer and having readable, sensible solutions, but on having them properly typed as I'm working more with Python at my day job and need to get into the habit of not just wrangling the type system but also using `mypy` to show where I'm doing something stupid.
